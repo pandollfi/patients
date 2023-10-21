@@ -5,7 +5,7 @@
        <div class="copyright">
        </div>
       <div class="credits">
-         &copy; Todos os Direitos Reservados. Desenvolvido por <a href="#">Jean Pandolfi Jr.</a>
+         &copy; Todos os Direitos Reservados. Desenvolvido por <a href="https://wa.me/5516992343214" target="_blank">Jean Pandolfi Jr.</a>
       </div>
     </div>
   </footer><!-- End Footer -->

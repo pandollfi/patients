@@ -48,7 +48,7 @@
                                                 <div id="collapse20172019" class="accordion-collapse collapse"
                                                     data-bs-parent="#nestedAccordionBienios">
                                                     <div class="accordion-body">
-                                                        Conteúdo
+                                                        <a href="assets/docs/ata biênio 2017-2019.pdf" target="_blank">Ata Biênio 2017/2019</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -62,7 +62,7 @@
                                                 <div id="collapse20192021" class="accordion-collapse collapse"
                                                     data-bs-parent="#nestedAccordionBienios">
                                                     <div class="accordion-body">
-                                                        Conteúdo
+                                                        <a href="/assets/docs/ata biênio 2019 - 2021 pdf.pdf" target="_blank">Ata Biênio 2019/2021</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -76,7 +76,7 @@
                                                 <div id="collapse20212023" class="accordion-collapse collapse"
                                                     data-bs-parent="#nestedAccordionBienios">
                                                     <div class="accordion-body">
-                                                        Conteúdo
+                                                        {{-- Conteúdo --}}
                                                     </div>
                                                 </div>
                                             </div>
@@ -99,7 +99,7 @@
                                     data-bs-parent="#nestedAccordionEstatuto">
                                     <div class="accordion-body">
                                         <!-- CONTEÚDO DO ESTATUTO SOCIAL -->
-                                        Conteúdo do Estatuto Social
+                                        <a href="/assets/docs/estatuto social.pdf" target="_blank">Estatuto Social</a>
                                     </div>
                                 </div>
                             </div>
@@ -126,7 +126,7 @@
                                     data-bs-parent="#nestedAccordionEstatuto">
                                     <div class="accordion-body">
                                         <!-- CONTEÚDO DO ESTATUTO SOCIAL -->
-                                        Conteúdo do Estatuto Social
+                                        <a href="/assets/docs/balanço financeiro 2018.pdf" target="_blank">Balanço Financeiro 2018</a>
                                     </div>
                                 </div>
                             </div>
@@ -142,7 +142,7 @@
                                     data-bs-parent="#nestedAccordionEstatuto">
                                     <div class="accordion-body">
                                         <!-- CONTEÚDO DO ESTATUTO SOCIAL -->
-                                        Conteúdo do Estatuto Social
+                                        <a href="/assets/docs/balanço 2019 correto.pdf" target="_blank">Balanço Financeiro 2019</a>
                                     </div>
                                 </div>
                             </div>
@@ -158,7 +158,7 @@
                                     data-bs-parent="#nestedAccordionEstatuto">
                                     <div class="accordion-body">
                                         <!-- CONTEÚDO DO ESTATUTO SOCIAL -->
-                                        Conteúdo do Estatuto Social
+                                        <a href="/assets/docs/balanço 2020.pdf" target="_blank">Balanço Financeiro 2020</a>
                                     </div>
                                 </div>
                             </div>
@@ -174,7 +174,7 @@
                                     data-bs-parent="#nestedAccordionEstatuto">
                                     <div class="accordion-body">
                                         <!-- CONTEÚDO DO ESTATUTO SOCIAL -->
-                                        Conteúdo do Estatuto Social
+                                        {{-- <a href="/assets/docs/estatuto social.pdf" target="_blank">Estatuto Social</a> --}}
                                     </div>
                                 </div>
                             </div>
@@ -190,7 +190,7 @@
                                     data-bs-parent="#nestedAccordionEstatuto">
                                     <div class="accordion-body">
                                         <!-- CONTEÚDO DO ESTATUTO SOCIAL -->
-                                        Conteúdo do Estatuto Social
+                                        {{-- <a href="/assets/docs/estatuto social.pdf" target="_blank">Estatuto Social</a> --}}
                                     </div>
                                 </div>
                             </div>
@@ -229,7 +229,7 @@
                                                 <div id="collapseColaboracao2019" class="accordion-collapse collapse"
                                                     data-bs-parent="#nestedAccordionBienios">
                                                     <div class="accordion-body">
-                                                        Conteúdo
+                                                        <a href="/assets/docs/termo de colaboração.pdf" target="_blank">Termo de Colaboração 2019</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -244,7 +244,7 @@
                                                 <div id="collapseColaboracao2020" class="accordion-collapse collapse"
                                                     data-bs-parent="#nestedAccordionBienios">
                                                     <div class="accordion-body">
-                                                        Conteúdo
+                                                        <a href="/assets/docs/termo de colaboração 03 2020.pdf" target="_blank">Termo de Colaboração 2020</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -259,7 +259,7 @@
                                                 <div id="collapseColaboracao2021" class="accordion-collapse collapse"
                                                     data-bs-parent="#nestedAccordionBienios">
                                                     <div class="accordion-body">
-                                                        Conteúdo
+                                                        <a href="/assets/docs/termo de colaboração 03-2021.pdf" target="_blank">Termo de Colaboração 2021</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -273,7 +273,7 @@
                                                 <div id="collapseColaboracao2022" class="accordion-collapse collapse"
                                                     data-bs-parent="#nestedAccordionBienios">
                                                     <div class="accordion-body">
-                                                        Conteúdo
+                                                        {{-- <a href="/assets/docs/termo de colaboração.pdf" target="_blank">Termo de Colaboração 2022</a> --}}
                                                     </div>
                                                 </div>
                                             </div>
@@ -287,7 +287,7 @@
                                                 <div id="collapseColaboracao2023" class="accordion-collapse collapse"
                                                     data-bs-parent="#nestedAccordionBienios">
                                                     <div class="accordion-body">
-                                                        Conteúdo
+                                                        {{-- <a href="/assets/docs/termo de colaboração.pdf" target="_blank">Termo de Colaboração 2023</a> --}}
                                                     </div>
                                                 </div>
                                             </div>
@@ -318,7 +318,7 @@
                                                 <div id="collapseFomento2019" class="accordion-collapse collapse"
                                                     data-bs-parent="#nestedAccordionBienios">
                                                     <div class="accordion-body">
-                                                        Conteúdo
+                                                        <a href="/assets/docs/termo de fomento.pdf" target="_blank">Termo de Fomento 2019</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -332,7 +332,7 @@
                                                 <div id="collapseFomento2020" class="accordion-collapse collapse"
                                                     data-bs-parent="#nestedAccordionBienios">
                                                     <div class="accordion-body">
-                                                        Conteúdo
+                                                        <a href="/assets/docs/termo de fomento nº 03-2020.pdf" target="_blank">Termo de Fomento 2020</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -346,7 +346,7 @@
                                                 <div id="collapseFomento2021" class="accordion-collapse collapse"
                                                     data-bs-parent="#nestedAccordionBienios">
                                                     <div class="accordion-body">
-                                                        Conteúdo
+                                                        {{-- <a href="/assets/docs/termo de colaboração.pdf" target="_blank">Termo de Colaboração 2023</a> --}}
                                                     </div>
                                                 </div>
                                             </div>
@@ -359,7 +359,7 @@
                                                 <div id="collapseFomento2022" class="accordion-collapse collapse"
                                                     data-bs-parent="#nestedAccordionBienios">
                                                     <div class="accordion-body">
-                                                        Conteúdo
+                                                        {{-- <a href="/assets/docs/termo de colaboração.pdf" target="_blank">Termo de Colaboração 2023</a> --}}
                                                     </div>
                                                 </div>
                                             </div>
@@ -372,7 +372,7 @@
                                                 <div id="collapseFomento2023" class="accordion-collapse collapse"
                                                     data-bs-parent="#nestedAccordionBienios">
                                                     <div class="accordion-body">
-                                                        Conteúdo
+                                                        {{-- <a href="/assets/docs/termo de colaboração.pdf" target="_blank">Termo de Colaboração 2023</a> --}}
                                                     </div>
                                                 </div>
                                             </div>
@@ -406,51 +406,63 @@
                                     data-bs-parent="#collapseProcessoSeletivo2021">
                                     <div class="accordion-body">
                                         <!-- CONTEÚDO DO ESTATUTO SOCIAL -->
-                                        Conteúdo do Estatuto Social
+                                        <a href="/assets/docs/processo seletivo2021.pdf" target="_blank">Processo Seletivo 2021</a><br>
+                                        <a href="/assets/docs/resultado do processo seletivo 2021.pdf" target="_blank">Resultado do Processo Seletivo 2021</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
 
-                    <div class="accordion" id="nestedAccordionEstatuto">
-                        <div class="accordion-item">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#collapseProcessoSeletivo2022" aria-expanded="false"
-                                aria-controls="collapseProcessoSeletivo2022">
-                                2022
-                            </button>
-                            <div id="collapseProcessoSeletivo2022" class="accordion-collapse collapse"
-                                data-bs-parent="#collapseProcessoSeletivo2022">
-                                <div class="accordion-body">
-                                    <!-- CONTEÚDO DO ESTATUTO SOCIAL -->
-                                    Conteúdo do Estatuto Social
+                        <div class="accordion" id="nestedAccordionEstatuto">
+                            <div class="accordion-item">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseProcessoSeletivo2022" aria-expanded="false"
+                                    aria-controls="collapseProcessoSeletivo2022">
+                                    2022
+                                </button>
+                                <div id="collapseProcessoSeletivo2022" class="accordion-collapse collapse"
+                                    data-bs-parent="#collapseProcessoSeletivo2022">
+                                    <div class="accordion-body">
+                                        <a href="/assets/docs/processo seletivo 2022..pdf" target="_blank">Processo Seletivo 2022</a><br>
+                                        <a href="/assets/docs/resultado do processo seletivo 2022.pdf" target="_blank">Resultado do Processo Seletivo 2022</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
 
-                    <div class="accordion" id="nestedAccordionEstatuto">
-                        <div class="accordion-item">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#collapseProcessoSeletivo2023" aria-expanded="false"
-                                aria-controls="collapseProcessoSeletivo2023">
-                                2022
-                            </button>
-                            <div id="collapseProcessoSeletivo2023" class="accordion-collapse collapse"
-                                data-bs-parent="#collapseProcessoSeletivo2023">
-                                <div class="accordion-body">
-                                    <!-- CONTEÚDO DO ESTATUTO SOCIAL -->
-                                    Conteúdo do Estatuto Social
+                        <div class="accordion" id="nestedAccordionEstatuto">
+                            <div class="accordion-item">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseProcessoSeletivo2023" aria-expanded="false"
+                                    aria-controls="collapseProcessoSeletivo2023">
+                                    2023
+                                </button>
+                                <div id="collapseProcessoSeletivo2023" class="accordion-collapse collapse"
+                                    data-bs-parent="#collapseProcessoSeletivo2023">
+                                    <div class="accordion-body">
+                                        <!-- CONTEÚDO DO ESTATUTO SOCIAL -->
+                                      {{-- <a href="/assets/docs/termo de colaboração.pdf" target="_blank">Termo de Colaboração 2023</a> --}}
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
 
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-    </section>
+        </section>
 
-    @include('site.rodape')
+        @include('site.rodape')
+        <style>
+            body {
+                display: flex;
+                flex-direction: column;
+                min-height: 100vh;
+            }
+
+            main {
+                flex-grow: 1;
+            }
+        </style>

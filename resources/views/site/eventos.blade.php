@@ -84,3 +84,14 @@
 <!-- End Gallery Section -->
 
 @include('site.rodape')
+<style>
+    body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+    }
+
+    main {
+        flex-grow: 1;
+    }
+</style>

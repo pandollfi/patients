@@ -6,8 +6,7 @@
     <div class="container" style="margin-top: 8em;">
         <div class="section-title">
             <h2 style="font-size: 5em;"><span>Contato</span></h2>
-            <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque
-                vitae autem.</p>
+            <p>Entre em contato com a nossa equipe...</p>
         </div>
     </div>
     <div class="map">
@@ -24,7 +23,7 @@
                 <div class="col-lg-4 col-md-6 info">
                     <i class="bi bi-geo-alt"></i>
                     <h4>Endereço:</h4>
-                    <p>: Rua Vinte e Seis, 1898 <br> Jardim Sao Joao, Orlândia</p>
+                    <p>Rua Vinte e Seis, 1898 <br> Jardim Sao Joao, Orlândia</p>
                 </div>
                 <div class="col-lg-4 col-md-6 info mt-4 mt-lg-0">
                     <i class="bi bi-envelope"></i>
@@ -40,7 +39,7 @@
             </div>
         </div>
 
-        <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+        {{-- <form action="forms/contact.php" method="post" role="form" class="php-email-form">
             <div class="row">
                 <div class="col-md-6 form-group">
                     <input type="text" name="name" class="form-control" id="name" placeholder="Seu Nome"
@@ -63,7 +62,7 @@
                 <div class="sent-message">Sua mensagem foi enviada. Obrigado!</div>
             </div>
             <div class="text-center"><button type="submit">Enviar Mensagem</button></div>
-        </form>
+        </form> --}}
 
     </div>
 </section>
@@ -72,3 +71,14 @@
 <!-- End #main -->
 
 @include('site.rodape')
+<style>
+    body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+    }
+
+    main {
+        flex-grow: 1;
+    }
+</style>

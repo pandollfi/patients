@@ -7,34 +7,25 @@
 
         <div class="section-title">
             <h2 style="font-size: 5em;">Diretoria <span>Voluntária</span></h2>
-            <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque
-                vitae autem.</p>
+            <p>Conheça nossa equipe...</p>
         </div>
 
         <div class="swiper-slide" style="margin-top: 4em;">
             <div class="row event-item">
-                <div class="col-lg-6">
+                {{-- <div class="col-lg-6">
                     <img src="assets/img/event-birthday.jpg" class="img-fluid" alt="">
-                </div>
-                <div class="col-lg-6 pt-4 pt-lg-0 content">
-                    <h3>Birthday Parties</h3>
+                </div> --}}
+                <div class="col-lg-12 pt-4 pt-lg-0 content" style="text-align: justify">
+                    {{-- <h3>Birthday Parties</h3> --}}
                     {{-- <div class="price">
                         <p><span>$189</span></p>
                     </div> --}}
                     <p class="fst-italic">
-                        Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of
-                        classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a
-                        Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin
-                        words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in
-                        classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32
-                        and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero,
-                        written in 45 BC. This book is a treatise on the theory of ethics, very popular during the
-                        Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in
-                        section 1.10.32.
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                        the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
-                        of type and scrambled it to make a type specimen book. It has survived not only five centuries,
-                        but also the leap into electronic typesetting, remaining essentially unchanged.
+                        Nossa Diretoria Voluntária é composta por membros da sociedade civil que assumem a
+                        responsabilidade de administrar a escola em parceria com o poder público, que mantém uma
+                        cooperação financeira para que a entidade possa cumprir a missão de oferecer uma escola de
+                        qualidade, que garanta oportunidade para as crianças se desenvolverem plenamente com liberdade e
+                        dignidade.
                     </p>
                 </div>
             </div>
@@ -43,7 +34,7 @@
 </section>
 <!-- End Whu Us Section -->
 
-<section id="timeline" class="">
+{{-- <section id="timeline" class="">
     <div class="container">
         <div class="row text-center justify-content-center mb-5">
             <div class="col-xl-6 col-lg-8">
@@ -61,67 +52,200 @@
                         <div class="timeline-content" data-toggle="popover" data-trigger="hover" data-placement="top"
                             title="" data-content="And here's some amazing content. It's very engaging. Right?"
                             data-original-title="2003">
-                            <div class="inner-circle"></div>
-                            <p class="h6 mt-3 mb-1">2003</p>
-                            <p class="h6 text-muted mb-0 mb-lg-0">Lorem ipsum dolor sit amet, consectetur adipiscing
-                                elit. Etiam massa eros, placerat eu dignissim in, venenatis vel massa. Cras faucibus
-                                ipsum a faucibus faucibus.</p>
+                            <div class="inner-circle"></div> 
+                            <div class="container text-center inner-circle">
+                                <div class="image-container text-center">
+                                    <img src="/assets/img/site/diretoria_voluntaria/1.jpeg" alt="Imagem" class="image">
+                                    <div class="overlay">
+                                        <img src="/assets/img/site/diretoria_voluntaria/1.jpeg" alt="Imagem Ampliada" class="overlay-image">
+                                    </div>
+                                </div>
+                            </div><br><br>
+                            <p class="h6 mt-3 mb-1"><b>Presidente</b></p>
+                            <p class="h6 mt-3 mb-1">2013 a 2017</p>
+                            <p class="h6 text-muted mb-0 mb-lg-0">Maria Consuelo de Freitas Silveira Leal</p>
                         </div>
                     </div>
                     <div class="timeline-step">
                         <div class="timeline-content" data-toggle="popover" data-trigger="hover" data-placement="top"
                             title="" data-content="And here's some amazing content. It's very engaging. Right?"
                             data-original-title="2004">
-                            <div class="inner-circle"></div>
-                            <p class="h6 mt-3 mb-1">2004</p>
-                            <p class="h6 text-muted mb-0 mb-lg-0">Sed eu lectus vitae leo commodo pharetra vitae
-                                venenatis mauris. Integer ex nulla, pellentesque nec dignissim sit amet, pretium mattis
-                                ante. In in luctus est, ut pellentesque nisl.</p>
+                            <div class="container text-center inner-circle">
+                                <div class="image-container text-center">
+                                    <img src="/assets/img/site/diretoria_voluntaria/2.jpeg" alt="Imagem" class="image">
+                                    <div class="overlay">
+                                        <img src="/assets/img/site/diretoria_voluntaria/2.jpeg" alt="Imagem Ampliada" class="overlay-image">
+                                    </div>
+                                </div>
+                            </div><br><br>
+                            <p class="h6 mt-3 mb-1"><b>Fundador da Entidade</b></p>
+                            <p class="h6 text-muted mb-0 mb-lg-0">Dom Devair Araújo da Fonseca</p>
+                            
                         </div>
                     </div>
                     <div class="timeline-step">
-                        <div class="timeline-content" data-toggle="popover" data-trigger="hover"
-                            data-placement="top" title=""
-                            data-content="And here's some amazing content. It's very engaging. Right?"
+                        <div class="timeline-content" data-toggle="popover" data-trigger="hover" data-placement="top"
+                            title="" data-content="And here's some amazing content. It's very engaging. Right?"
                             data-original-title="2005">
-                            <div class="inner-circle"></div>
-                            <p class="h6 mt-3 mb-1">2005</p>
-                            <p class="h6 text-muted mb-0 mb-lg-0">Cras aliquam congue iaculis. Maecenas molestie
-                                feugiat velit, at tempor justo sollicitudin ac.</p>
+                            <div class="container text-center inner-circle">
+                                <div class="image-container text-center">
+                                    <img src="/assets/img/site/diretoria_voluntaria/3.jpeg" alt="Imagem" class="image">
+                                    <div class="overlay">
+                                        <img src="/assets/img/site/diretoria_voluntaria/3.jpeg" alt="Imagem Ampliada" class="overlay-image">
+                                    </div>
+                                </div>
+                            </div><br><br>
+                            <p class="h6 mt-3 mb-1"><b>Presidente</b></p>
+                            <p class="h6 mt-3 mb-1">2017 a 2021</p>
+                            <p class="h6 text-muted mb-0 mb-lg-0">Giovana Peron Arndt</p>
                         </div>
                     </div>
                     <div class="timeline-step">
-                        <div class="timeline-content" data-toggle="popover" data-trigger="hover"
-                            data-placement="top" title=""
-                            data-content="And here's some amazing content. It's very engaging. Right?"
+                        <div class="timeline-content" data-toggle="popover" data-trigger="hover" data-placement="top"
+                            title="" data-content="And here's some amazing content. It's very engaging. Right?"
                             data-original-title="2010">
-                            <div class="inner-circle"></div>
-                            <p class="h6 mt-3 mb-1">2010</p>
-                            <p class="h6 text-muted mb-0 mb-lg-0">Donec sit amet euismod ligula, quis auctor ante.
-                                Proin ac nulla dignissim, vulputate felis sit amet, scelerisque ante. Sed quis eros
-                                turpis. Praesent at suscipit nibh. </p>
+                            <div class="container text-center inner-circle">
+                                <div class="image-container text-center">
+                                    <img src="/assets/img/site/diretoria_voluntaria/4.jpg" alt="Imagem" class="image">
+                                    <div class="overlay">
+                                        <img src="/assets/img/site/diretoria_voluntaria/4.jpg" alt="Imagem Ampliada" class="overlay-image">
+                                    </div>
+                                </div>
+                            </div><br><br>
+                            <p class="h6 mt-3 mb-1"><b>Presidente de Honra</b></p>
+                            <p class="h6 text-muted mb-0 mb-lg-0">Padre Diego Carlos Gonçalves</p>
                         </div>
                     </div>
                     <div class="timeline-step mb-0">
-                        <div class="timeline-content" data-toggle="popover" data-trigger="hover"
-                            data-placement="top" title=""
-                            data-content="And here's some amazing content. It's very engaging. Right?"
+                        <div class="timeline-content" data-toggle="popover" data-trigger="hover" data-placement="top"
+                            title="" data-content="And here's some amazing content. It's very engaging. Right?"
                             data-original-title="2020">
-                            <div class="inner-circle"></div>
-                            <p class="h6 mt-3 mb-1">2020</p>
-                            <p class="h6 text-muted mb-0 mb-lg-0">Pellentesque odio mauris, eleifend at ligula eu,
-                                tristique facilisis urna. Etiam mollis nibh nec nibh viverra consequat. Donec laoreet
-                                lectus purus, a consectetur sapien tristique vel.</p>
+                            <div class="container text-center inner-circle">
+                                <div class="image-container text-center">
+                                    <img src="/assets/img/site/diretoria_voluntaria/5.jpg" alt="Imagem" class="image">
+                                    <div class="overlay">
+                                        <img src="/assets/img/site/diretoria_voluntaria/5.jpg" alt="Imagem Ampliada" class="overlay-image">
+                                    </div>
+                                </div>
+                            </div><br><br>
+                            <p class="h6 mt-3 mb-1"><b>Presidente</b></p>
+                            <p class="h6 mt-3 mb-1">2021 a 2023</p>
+                            <p class="h6 text-muted mb-0 mb-lg-0">Jaqueline Ribeiro Lamonato Claro</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+</section> --}}
+
+<section id="chefs" class="chefs">
+    <div class="container">
+        <div class="row text-center align-items-center">
+            <div class="row">
+                <div class="col-md-2">
+                    <div class="member">
+                        <div class="pic"><img src="/assets/img/site/diretoria_voluntaria/1.jpeg"
+                                class="img-fluid size-standard mx-auto" alt="">
+                        </div>
+                    </div>
+                    <div style="margin-top: -4.5em; margin-bottom: 2em;">
+                        <p class="h6 mt-3 mb-1"><b>Presidente</b><br>
+                            2013 a 2017<br>
+                            Maria Consuelo de Freitas Silveira Leal</p>
+                    </div>
+                </div>
+
+                <div class="col" style="align-items: center; color: #1B98E0;">
+                </div>
+
+                <div class="col-md-2">
+                    <div class="member">
+                        <div class="pic"><img src="/assets/img/site/diretoria_voluntaria/2.jpeg"
+                                class="img-fluid size-standard mx-auto" alt="">
+                        </div>
+                    </div>
+                    <div style="margin-top: -4.5em; margin-bottom: 2em;">
+                        <p class="h6 mt-3 mb-1"><b>Fundador da Entidade</b><br>
+                            Dom Devair Araújo da Fonseca</p>
+                    </div>
+                </div>
+
+                <div class="col" style="align-items: center; color: #1B98E0;">
+                </div>
+
+                <div class="col-md-2">
+                    <div class="member">
+                        <div class="pic"><img src="/assets/img/site/diretoria_voluntaria/3.jpeg"
+                                class="img-fluid size-standard mx-auto" alt="">
+                        </div>
+                    </div>
+                    <div style="margin-top: -4.5em; margin-bottom: 2em;">
+                        <p class="h6 mt-3 mb-1"><b>Presidente</b><br>
+                            2017 a 2021<br>
+                            Giovana Peron Arndt</p>
+                    </div>
+                </div>
+
+                <div class="col" style="align-items: center; color: #1B98E0;">
+                </div>
+
+                <div class="col-md-2">
+                    <div class="member">
+                        <div class="pic"><img src="/assets/img/site/diretoria_voluntaria/4.jpg"
+                                class="img-fluid size-standard mx-auto" alt="">
+                        </div>
+                    </div>
+                    <div style="margin-top: -4.5em; margin-bottom: 2em;">
+                        <p class="h6 mt-3 mb-1"><b>Presidente de Honra</b><br>
+                            Padre Diego Carlos Gonçalves</p>
+                    </div>
+                </div>
+
+                <div class="col" style="align-items: center; color: #1B98E0;">
+                </div>
+
+                <div class="col-md-2">
+                    <div class="member">
+                        <div class="pic"><img src="/assets/img/site/diretoria_voluntaria/5.jpg"
+                                class="img-fluid size-standard mx-auto" alt="">
+                        </div>
+                    </div>
+                    <div style="margin-top: -4.5em; margin-bottom: 2em;">
+                        <p class="h6 mt-3 mb-1"><b>Presidente</b><br>
+                            2021 a 2023<br>
+                            Jaqueline Ribeiro Lamonato Claro</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
 </section>
 
 @include('site.rodape')
 <style>
+    .size-standard {
+        width: 196px;
+        height: 196px;
+    }
+
+    .align-items-center {
+        display: flex;
+        align-items: center;
+    }
+
+    body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+    }
+
+    main {
+        flex-grow: 1;
+    }
+</style>
+{{-- <style>
     body {
         margin-top: 20px;
     }
@@ -178,7 +302,7 @@
     }
 
     .timeline-steps .timeline-content .inner-circle:before {
-        content: "";
+        /* content: ""; */
         background-color: #3b82f6;
         display: inline-block;
         height: 3rem;
@@ -187,4 +311,38 @@
         border-radius: 6.25rem;
         opacity: .5
     }
-</style>
+
+    .container {
+        position: relative;
+    }
+
+    .image-container {
+        position: relative;
+        display: inline-block;
+    }
+
+    .image {
+        width: 100px;
+        /* Largura da imagem base */
+        height: 100px;
+    }
+
+    .overlay {
+        position: absolute;
+        top: 0;
+        left: 100%;
+        /* A imagem ampliada aparecerá à direita da imagem base */
+        opacity: 0;
+        transition: opacity 0.3s;
+    }
+
+    .overlay-image {
+        width: 20em;
+        /* Largura da imagem ampliada */
+        height: 20em;
+    }
+
+    .image-container:hover .overlay {
+        opacity: 1;
+    }
+</style> --}}

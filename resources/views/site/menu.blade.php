@@ -15,7 +15,7 @@
         </i>
         <i class="bi bi-whatsapp ms-4 d-none d-lg-flex align-items-center">
             <span>
-                <a href="https://wa.me/5516992343214" target="_blank" style="{{count(explode("/", url()->current())) == 3 ? 'color: white;' : 'color: black;' }}">(16) 9 9234-3214</a>
+                <a href="https://wa.me/5516996968000" target="_blank" style="{{count(explode("/", url()->current())) == 3 ? 'color: white;' : 'color: black;' }}">(16) 9 9696-8000</a>
             </span>
         </i>
     </div>
@@ -26,7 +26,7 @@
     style="background: rgba(26, 24, 22, 0.85)">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
         <div class="logo me-auto">
-            <h1><a href="/">Creche Izolina</a></h1>
+            <h1><a href="/">Creche <span style="color: #1B98E0">Izolina</span></a></h1>
         </div>
         <nav id="navbar" class="navbar order-last order-lg-0">
             <ul>
@@ -63,8 +63,8 @@
                     <ul>
                         <li><a href="/pesquisa-documentacao">Pesquisa e Documentação</a></li>
                         <li><a href="/participacao-familias">Participação das Famílias</a></li>
-                        <li><a href="/eventos">Eventos</a></li>
-                        <li><a href="/galeria">Galeria</a></li>
+                        {{-- <li><a href="/eventos">Eventos</a></li>
+                        <li><a href="/documentacoes">Documentações</a></li> --}}
                     </ul>
                 </li>
                 <li><a class="nav-link scrollto" href="/contato">Contato</a></li>

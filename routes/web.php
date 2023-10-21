@@ -27,7 +27,7 @@ Route::get('/ambientes', function () { return view('site.ambientes'); });
 Route::get('/pesquisa-documentacao', function () { return view('site.pesquisa-documentacao'); });
 Route::get('/participacao-familias', function () { return view('site.participacao-familias'); });
 Route::get('/eventos', function () { return view('site.eventos'); });
-Route::get('/galeria', function () { return view('site.galeria'); });
+Route::get('/documentacoes', function () { return view('site.documentacoes'); });
 Route::get('/contato', function () { return view('site.contato'); });
 Route::get('/transparencia', function () { return view('site.transparencia'); });
 Route::get('/atas-estatuto', function () { return view('site.transparencia.atas-estatuto'); });

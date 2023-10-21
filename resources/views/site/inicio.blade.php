@@ -8,51 +8,68 @@
             <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
             <div class="carousel-inner" role="listbox">
                 <!-- Slide 1 -->
-                <div class="carousel-item active" style="background-image: url(assets/img/site/inicio/1.png);">
+                <div class="carousel-item active" style="background-image: url(assets/img/site/inicio/2.jpeg);">
                     <div class="carousel-container">
                         <div class="carousel-content">
                             <h2 class="animate__animated animate__fadeInDown">Creche <span>Izolina</span> </h2>
-                            <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui
+                            {{-- <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui
                                 aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem
                                 mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti
-                                vel. Minus et tempore modi architecto.</p>
+                                vel. Minus et tempore modi architecto.</p> --}}
                             <div>
-                                <a href="#menu" class="btn-menu animate__animated animate__fadeInUp scrollto">Our
-                                    Menu</a>
+                                <a href="#why-us" class="btn-menu animate__animated animate__fadeInUp scrollto">Conheça
+                                    nosso site!</a>
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <!-- Slide 2 -->
-                <div class="carousel-item" style="background-image: url(assets/img/site/inicio/2.jpg);">
+                <div class="carousel-item" style="background-image: url(assets/img/site/inicio/4.jpeg);">
                     <div class="carousel-container">
                         <div class="carousel-content">
                             <h2 class="animate__animated animate__fadeInDown">Creche <span>Izolina</span> </h2>
-                            <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui
+                            {{-- <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui
                                 aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem
                                 mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti
-                                vel. Minus et tempore modi architecto.</p>
+                                vel. Minus et tempore modi architecto.</p> --}}
                             <div>
-                                <a href="#menu" class="btn-menu animate__animated animate__fadeInUp scrollto">Our
-                                    Menu</a>
+                                <a href="#why-us" class="btn-menu animate__animated animate__fadeInUp scrollto">Conheça
+                                    nosso site!</a>
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <!-- Slide 3 -->
-                <div class="carousel-item" style="background-image: url(assets/img/site/inicio/3.jpg);">
+                <div class="carousel-item" style="background-image: url(assets/img/site/inicio/3.jpeg);">
                     <div class="carousel-container">
                         <div class="carousel-content">
                             <h2 class="animate__animated animate__fadeInDown">Creche <span>Izolina</span> </h2>
-                            <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui
+                            {{-- <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui
                                 aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem
                                 mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti
-                                vel. Minus et tempore modi architecto.</p>
+                                vel. Minus et tempore modi architecto.</p> --}}
                             <div>
-                                <a href="#menu" class="btn-menu animate__animated animate__fadeInUp scrollto">Our
-                                    Menu</a>
+                                <a href="#why-us" class="btn-menu animate__animated animate__fadeInUp scrollto">Conheça
+                                    nosso site!</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Slide 4 -->
+                <div class="carousel-item" style="background-image: url(assets/img/site/inicio/1.jpeg);">
+                    <div class="carousel-container">
+                        <div class="carousel-content">
+                            <h2 class="animate__animated animate__fadeInDown">Creche <span>Izolina</span> </h2>
+                            {{-- <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui
+                                aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem
+                                mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti
+                                vel. Minus et tempore modi architecto.</p> --}}
+                            <div>
+                                <a href="#menu" class="btn-menu animate__animated animate__fadeInUp scrollto">Conheça
+                                    nosso site!</a>
                             </div>
                         </div>
                     </div>
@@ -78,44 +95,66 @@
     <div class="container">
 
         <div class="section-title">
-            <h2>Uma frase <span>chamativa</span></h2>
-            <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque
-                vitae autem.</p>
+            <h2>De mãos dadas pela <span>educação infantil</span></h2>
+            <p>Somos uma escola que busca entender como se produz o saber, se aproximando de novas fontes de
+                conhecimento a partir de uma concepção universal determinada por um saber maior, onde se oferta
+                impressões sobre as realidades sociais e a natureza, saindo do senso comum para o conhecimento
+                científico.
+            </p>
         </div>
 
-        <div class="row">
+        <div class="row" style="text-align: justify">
 
             <div class="col-lg-3">
-                <div class="box">
-                    <span>01</span>
-                    <h4>Um atalho</h4>
-                    <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
-                </div>
+                <a href="/identidade">
+                    <div class="box">
+                        <span>01</span>
+                        <h4>Nossa Identidade</h4>
+                        <p>A Educação Infantil, primeira etapa da Educação Básica, tem por objetivo garantir à criança
+                            desde
+                            o nascimento a construção de conhecimento e de cultura...<b>Ver mais...</b></p>
+                    </div>
+                </a>
             </div>
 
             <div class="col-lg-3 mt-4 mt-lg-0">
-                <div class="box">
-                    <span>02</span>
-                    <h4>Um atalho</h4>
-                    <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno
-                        para dest</p>
-                </div>
+                <a href="/participacao-familias">
+                    <div class="box">
+                        <span>02</span>
+                        <h4>Participação das Famílias</h4>
+                        <p>A família é um dos pilares para o desenvolvimento do trabalho da creche e figura central na
+                            educação das crianças, que contribui com os valores da educação e na defesa dos direitos da
+                            criança... <b>Ver mais...</b></p>
+                    </div>
+                </a>
             </div>
 
             <div class="col-lg-3 mt-4 mt-lg-0">
-                <div class="box">
-                    <span>03</span>
-                    <h4>Um atalho</h4>
-                    <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
-                </div>
+                <a href="/inspiracao">
+                    <div class="box">
+                        <span>03</span>
+                        <h4>Nossa Inspiração</h4>
+                        <p>A abordagem de Reggio Emilia a qual nos inspiramos baseia-se na compreensão dos problemas,
+                            por
+                            meio dos experimentos, de tentativas e de erros, onde a maior atenção é dada aos processos
+                            em
+                            vez do produto final. <b>Ver mais...</b></p>
+                    </div>
+                </a>
             </div>
 
             <div class="col-lg-3 mt-4 mt-lg-0">
-                <div class="box">
-                    <span>04</span>
-                    <h4>Um atalho</h4>
-                    <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
-                </div>
+                <a href="/pesquisa-documentacao">
+                    <div class="box">
+                        <span>04</span>
+                        <h4>Pesquisa e Documentação</h4>
+                        <p>A pesquisa é um processo natural do ser humano que se envolve com a complexidade do mundo que
+                            o
+                            cerca, em busca de sentidos para o que se experimenta, se vive e se faz... <b>Ver
+                                mais...</b>
+                        </p>
+                    </div>
+                </a>
             </div>
 
         </div>
@@ -124,3 +163,14 @@
 </section><!-- End Whu Us Section -->
 
 @include('site.rodape')
+<style>
+    body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+    }
+
+    main {
+        flex-grow: 1;
+    }
+</style>

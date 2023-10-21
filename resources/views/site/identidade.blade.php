@@ -13,23 +13,25 @@
 
         <div class="swiper-slide" style="margin-top: 4em;">
             <div class="row event-item">
-                <div class="col-lg-12 pt-4 pt-lg-0 content">
-                    <h3>Birthday Parties</h3>
+                <div class="col-lg-12 pt-4 pt-lg-0 content" style="text-align: justify;">
+                    {{-- <h3>Birthday Parties</h3> --}}
 
                     <p class="fst-italic">
-                        Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of
-                        classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a
-                        Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin
-                        words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in
-                        classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32
-                        and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero,
-                        written in 45 BC. This book is a treatise on the theory of ethics, very popular during the
-                        Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in
-                        section 1.10.32.
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                        the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
-                        of type and scrambled it to make a type specimen book. It has survived not only five centuries,
-                        but also the leap into electronic typesetting, remaining essentially unchanged.
+                        A Educação Infantil, primeira etapa da Educação Básica, tem por objetivo garantir à criança
+                        desde o nascimento a construção de conhecimento e de cultura, a partir das múltiplas interações
+                        sociais e das relações que estabelece com o mundo, bem como de proporcionar condições adequadas
+                        para promover o bem-estar e o desenvolvimento da criança em seus aspectos físico, psicológico,
+                        intelectual e social, complementando a ação da família e da comunidade.</p>
+                    <p class="fst-italic">Somos uma escola que busca entender como se produz o saber, se aproximando de
+                        novas fontes de
+                        conhecimento a partir de uma concepção universal determinada por um saber maior, onde se oferta
+                        impressões sobre as realidades sociais e a natureza, saindo do senso comum para o conhecimento
+                        científico.</p>
+                    <p class="fst-italic">Acreditamos no valor da Prática Democrática, que envolve crianças, famílias,
+                        comunidade
+                        educativa e a sociedade como um todo, em um relacionamento baseado no diálogo, na escuta e na
+                        participação, fazendo com que a escola seja um ambiente propício à produção de pensamentos e
+                        reflexões que enriqueçam o projeto educativo.
                     </p>
                 </div>
             </div>
@@ -41,28 +43,40 @@
 <section id="chefs" class="chefs">
     <div class="container">
         <div class="row">
-            <div class="col-lg-4 col-md-6">
+            {{-- <div class="col-lg-4 col-md-6">
                 <div class="member">
                     <div class="pic"><img src="assets/img/chefs/chefs-1.jpg" class="img-fluid" alt="">
                     </div>
                 </div>
-            </div>
+            </div> --}}
 
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-12 col-md-6">
                 <div class="member">
-                    <div class="pic"><img src="assets/img/chefs/chefs-2.jpg" class="img-fluid" alt="">
+                    <div class="pic"><img src="assets/img/site/identidade/de_maos_dadas.png" class="img-fluid"
+                            alt="">
                     </div>
                 </div>
             </div>
 
-            <div class="col-lg-4 col-md-6">
+            {{-- <div class="col-lg-4 col-md-6">
                 <div class="member">
                     <div class="pic"><img src="assets/img/chefs/chefs-3.jpg" class="img-fluid" alt="">
                     </div>
                 </div>
-            </div>
+            </div> --}}
         </div>
     </div>
 </section>
 
 @include('site.rodape')
+<style>
+    body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+    }
+
+    main {
+        flex-grow: 1;
+    }
+</style>
